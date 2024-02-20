@@ -69,7 +69,7 @@ fun HomeScreen() {
 
         Column {
 
-            GreetingSection("Sajjad")
+            GreetingSection("Abdul Basit")
 
             ChipSection(chips = listOf("Sweet Sleep", "Insomnia", "Depression", "Meditation"))
 
